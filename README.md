@@ -50,3 +50,16 @@ App Services URL : https://dental-pro.azurewebsites.net
 # CONTACT US
  
 ![image](https://user-images.githubusercontent.com/111041131/215323915-bfbee901-2495-4d86-a737-fa08aa452f1e.png)
+
+# AZURE SERVICES
+ 
+![image](https://user-images.githubusercontent.com/111041131/215324076-c5c5b852-c3a2-4841-888c-c7dce4973662.png)
+
+# STATIC WEB APP
+
+![image](https://user-images.githubusercontent.com/111041131/215324102-02e22153-53da-4b7c-9f2a-0a3cc5588cae.png)
+![image](https://user-images.githubusercontent.com/111041131/215324146-8449a642-ae6f-4f07-8cdb-0cbae9757dcd.png)
+
+# APP SERVICES
+
+![image](https://user-images.githubusercontent.com/111041131/215324214-1384e586-5da7-40bf-a7ff-17bca8b3d55b.png)

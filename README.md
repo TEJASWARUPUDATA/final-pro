@@ -27,7 +27,6 @@ App Services URL : https://dental-pro.azurewebsites.net
 
 ## DEMO  VIDEO
  
-https://drive.google.com/file/d/1XxCqmNepn_x7gl30S2Q53jGJkWq-yAwE/view?usp=sharing
 
 #  My Website Link: https://orange-hill-05a2c1800.2.azurestaticapps.net
 
